@@ -49,8 +49,6 @@ m^2^
 ## Análise de dados
 
 ```{r, echo=FALSE, eval=TRUE, results='asis'}
-data("mtcars")
-
 summary(lm(mpg ~ carb, mtcars))
 ```
 
