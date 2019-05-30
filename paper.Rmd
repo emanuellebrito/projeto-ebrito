@@ -19,6 +19,9 @@ if (!require("knitr")) install.packages("knitr")
 # Resumo
 
 # Introdução
+
+Primeira frase.
+
 ~~Eu~~ amo *chocolate* com **café** (Mainha, 1991).
 <!-- Quero fazer um comentário aqui. -->
 
