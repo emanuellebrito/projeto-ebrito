@@ -6,7 +6,10 @@ author:
 - \*gatinhadolove_92@hotbol.com
 output: 
   html_document:
-   reference_docx: scripts/template.docx
+    toc: true
+    toc_float: true
+    highlight: tang
+    reference_docx: scripts/template.docx
 bibliography: references/my-collection.bib
 csl: references/plos.csl
 ---
